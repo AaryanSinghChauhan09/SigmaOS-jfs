@@ -3,7 +3,7 @@ name = "SigmaOS-jfs"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "jfs component"
+description = "JFS"
 upstream = []
 
 [contract]
